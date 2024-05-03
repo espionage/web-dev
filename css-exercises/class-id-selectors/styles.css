@@ -1,0 +1,21 @@
+.odd-class1,
+.odd-class2,
+.odd-class3 {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd-class2 {
+    font-size: 24px;
+}
+
+#secondTitle {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthTitle {
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
